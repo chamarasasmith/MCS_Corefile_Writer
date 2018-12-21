@@ -1,0 +1,9 @@
+E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe.config
+E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\obj\Debug\MCS_Corefile_Writer.ProjectInstaller.resources
+E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\obj\Debug\MCS_Corefile_Writer.csproj.GenerateResource.Cache
+E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\obj\Debug\MCS_Corefile_Writer.csproj.CoreCompileInputs.cache
+E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\obj\Debug\MCS_Corefile_Writer.exe
+E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\obj\Debug\MCS_Corefile_Writer.pdb
+E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.pdb
+E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\obj\Debug\MCS_Corefile_Writer.csprojResolveAssemblyReference.cache

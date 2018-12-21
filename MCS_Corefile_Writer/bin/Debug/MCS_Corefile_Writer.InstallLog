@@ -1,0 +1,371 @@
+﻿Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing service MCS Corefile Writer...
+Service MCS Corefile Writer has been successfully installed.
+Creating EventLog source MCS Corefile Writer in log Application...
+Committing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing service MCS_Corefile_Writer...
+Creating EventLog source MCS_Corefile_Writer in log Application...
+Rolling back assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Restoring event log to previous state for source MCS_Corefile_Writer.
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing service MCS_Corefile_Writer...
+Service MCS_Corefile_Writer has been successfully installed.
+Creating EventLog source MCS_Corefile_Writer in log Application...
+Committing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing service MCS_Corefile_Writer...
+Service MCS_Corefile_Writer has been successfully installed.
+Creating EventLog source MCS_Corefile_Writer in log Application...
+Committing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing service MCS_Corefile_Writer...
+Creating EventLog source MCS_Corefile_Writer in log Application...
+Rolling back assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Restoring event log to previous state for source MCS_Corefile_Writer.
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing service MCS_Corefile_Writer...
+Service MCS_Corefile_Writer has been successfully installed.
+Creating EventLog source MCS_Corefile_Writer in log Application...
+Committing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing service MCS_Corefile_Writer...
+Service MCS_Corefile_Writer has been successfully installed.
+Creating EventLog source MCS_Corefile_Writer in log Application...
+Committing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing service MCS_Corefile_Writer...
+Service MCS_Corefile_Writer has been successfully installed.
+Creating EventLog source MCS_Corefile_Writer in log Application...
+Committing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing service MCS_Corefile_Writer...
+Service MCS_Corefile_Writer has been successfully installed.
+Creating EventLog source MCS_Corefile_Writer in log Application...
+Committing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing service MCS_Corefile_Writer...
+Service MCS_Corefile_Writer has been successfully installed.
+Creating EventLog source MCS_Corefile_Writer in log Application...
+Committing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing service MCS_Corefile_Writer...
+Service MCS_Corefile_Writer has been successfully installed.
+Creating EventLog source MCS_Corefile_Writer in log Application...
+Committing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing service MCS_Corefile_Writer...
+Service MCS_Corefile_Writer has been successfully installed.
+Creating EventLog source MCS_Corefile_Writer in log Application...
+Committing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing service MCS_Corefile_Writer...
+Service MCS_Corefile_Writer has been successfully installed.
+Creating EventLog source MCS_Corefile_Writer in log Application...
+Committing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing service MCS_Corefile_Writer...
+Creating EventLog source MCS_Corefile_Writer in log Application...
+Rolling back assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Restoring event log to previous state for source MCS_Corefile_Writer.
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing service MCS_Corefile_Writer...
+Creating EventLog source MCS_Corefile_Writer in log Application...
+Rolling back assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Restoring event log to previous state for source MCS_Corefile_Writer.
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing service MCS_Corefile_Writer...
+Service MCS_Corefile_Writer has been successfully installed.
+Creating EventLog source MCS_Corefile_Writer in log Application...
+Committing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing service MCS_Corefile_Writer...
+Service MCS_Corefile_Writer has been successfully installed.
+Creating EventLog source MCS_Corefile_Writer in log Application...
+Committing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing service MCS_Corefile_Writer...
+Service MCS_Corefile_Writer has been successfully installed.
+Creating EventLog source MCS_Corefile_Writer in log Application...
+Committing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing service MCS_Corefile_Writer...
+Creating EventLog source MCS_Corefile_Writer in log Application...
+Rolling back assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Restoring event log to previous state for source MCS_Corefile_Writer.
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing service MCS_Corefile_Writer...
+Service MCS_Corefile_Writer has been successfully installed.
+Creating EventLog source MCS_Corefile_Writer in log Application...
+Committing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Rolling back assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Rolling back assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing service MCS_Corefile_Writer...
+Service MCS_Corefile_Writer has been successfully installed.
+Creating EventLog source MCS_Corefile_Writer in log Application...
+Committing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Rolling back assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Rolling back assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Rolling back assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Rolling back assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Rolling back assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Rolling back assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
+Installing service MCS_Corefile_Writer...
+Service MCS_Corefile_Writer has been successfully installed.
+Creating EventLog source MCS_Corefile_Writer in log Application...
+Committing assembly 'E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.InstallLog
+   assemblypath = E:\Sync\Office_Projects\MCS_Corefile_Writer\MCS_Corefile_Writer\bin\Debug\MCS_Corefile_Writer.exe
